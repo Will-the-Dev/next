@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SongCard snapshot test should render component to match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardHeader-root"
+    >
+      <div
+        class="MuiCardHeader-avatar"
+      >
+        <div
+          class="MuiAvatar-root MuiAvatar-circle makeStyles-avatar-3 MuiAvatar-colorDefault"
+        >
+          H
+        </div>
+      </div>
+      <div
+        class="MuiCardHeader-content"
+      >
+        <span
+          class="MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock"
+        >
+          New York Groove
+        </span>
+        <span
+          class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+        >
+          The Glam Singles Collection
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiCardMedia-root makeStyles-media-2"
+      style="background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d1/13/64/d113640a-3ca5-2d08-6fc0-7fa06fc12fc8/source/100x100bb.jpg);"
+      title="01/11/1999"
+    />
+    <div
+      class="MuiCardContent-root"
+    >
+      <div
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+      >
+        <p>
+          HELLO
+        </p>
+        <p>
+          Genre: Rock
+        </p>
+        <p>
+          Available on streams: 
+        </p>
+        <p>
+          No of songs in Song: 24
+        </p>
+        <p>
+          Country: USA
+        </p>
+        <p>
+          Copyright: 13
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

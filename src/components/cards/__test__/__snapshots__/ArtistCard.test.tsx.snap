@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArtistCard snapshot test should render component to match snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="MuiBox-root MuiBox-root-1"
+  >
+    <div
+      class="MuiAvatar-root MuiAvatar-circle MuiAvatar-colorDefault"
+    >
+      H
+    </div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <br />
+    <div
+      class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+    >
+      <a
+        class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary"
+        href="https://music.apple.com/us/artist/hello/68212324?uo=4"
+      >
+        <p>
+          HELLO
+        </p>
+      </a>
+      <p>
+        Pop
+      </p>
+    </div>
+  </span>
+</DocumentFragment>
+`;
